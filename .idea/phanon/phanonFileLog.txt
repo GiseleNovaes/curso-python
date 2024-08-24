@@ -1,2 +1,9 @@
 /README.md
 /.idea/.gitignore
+/com/curso/python/gisele/__init__.py
+/com/curso/python/__init__.py
+/com/curso/__init__.py
+/com/__init__.py
+/Aula1-me-primeiro-programa.py
+/Aula1-meu-primeiro-programa.py
+/Aula2_VAriaveis_e_tipo_de_dados.py
